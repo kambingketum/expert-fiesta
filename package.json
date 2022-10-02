@@ -1,0 +1,8 @@
+{
+  "name": "expert-fiesta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kamaroolkarim/expert-fiesta.git",
+  "author": "Kamarool Karim <kamaroolkarim@gmail.com>",
+  "license": "MIT"
+}
